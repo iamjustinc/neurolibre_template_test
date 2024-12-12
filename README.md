@@ -5,7 +5,8 @@ John Griffiths
 Justin Chang
 John Griffiths  
 John Doe  
-...
+
+Edited from mac, test branch.
 
 ## Preprint template
 
